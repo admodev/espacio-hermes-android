@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "128143546063",
+    "firebase_url": "https://espacio-hermes.firebaseio.com",
+    "project_id": "espacio-hermes",
+    "storage_bucket": "espacio-hermes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128143546063:android:5f4a32fd79274ab5d289ba",
+        "android_client_info": {
+          "package_name": "com.digitalsolutions.espaciohermes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128143546063-u21ckevn0lf3nb6c0i9gsg2m829hecac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitalsolutions.espaciohermes",
+            "certificate_hash": "220aede4de7c6581de15218ef7adcee7e00c41ef"
+          }
+        },
+        {
+          "client_id": "128143546063-j728a1fggtsueghacsaq1i3d2i2q4354.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSDG58pp_BnyOao_6prNrTqm5zLel9Y7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128143546063-j728a1fggtsueghacsaq1i3d2i2q4354.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
